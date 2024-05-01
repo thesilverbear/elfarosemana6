@@ -1,0 +1,173 @@
+body {
+    font-family: "Merriweather", sans-serif;
+    font-weight: 400;
+    background-color: #FEFAF6;
+    color: #352f36;
+}
+
+
+#footer {
+    background-color: #6f1d1b;
+    height: 150px;
+}
+
+#footer>div>footer {
+    border-top: 0px !important;
+}
+
+.titulo {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-weight: 300;
+}
+
+.logo {
+    border-radius: 70%;
+    height: 300px;
+    size: 100px;
+    vertical-align: middle;
+    margin-right: 20px;
+}
+
+
+.categoria {
+    margin-top: 10px;
+    text-align: center !important;
+    color: #1679AB !important;
+    font-family: "Merriweather", serif;
+    font-style: bold;
+}
+
+a {
+    color: #1679AB !important;
+}
+
+.audio-element {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+
+.titulo {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    font-weight: 300;
+}
+
+.logo {
+    border-radius: 10px;
+    height: 70px;
+    vertical-align: middle;
+    margin-right: 20px;
+    margin-left: 40px;
+    box-shadow: 8px 8px light;
+}
+
+
+.video {
+    width: 100%;
+    height: 300px;
+
+}
+
+.audionoticia {
+    width: 80%;
+    padding: 5px;
+}
+
+/* Paleta de colores para sitio de noticias:  */
+
+#title {
+    background-color: white;
+}
+
+h1 {
+    color: #A34343;
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+}
+
+#title {
+    background-color: #FEFAF6;
+}
+
+#navbar {
+    background-color: #FEFAF6 !important;
+}
+
+.nav-links {
+    color: #A34343 !important;
+    font-weight: 400;
+    font-size: 22px !important;
+}
+
+.nav-links:hover {
+    color: #A34343 !important;
+    font-weight: 600;
+}
+
+.noticias-generales {
+    color: #352f36 !important;
+    font-weight: 600;
+}
+
+
+.sobre-nosotros {
+    background-color: #FEFAF6 !important;
+    color: #2f2f2f !important;
+    font-family: "Merriweather", serif;
+}
+
+.sobre-nosotros-titulo {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+}
+
+.sobre-nosotros-cuerpo {
+    font-family: "Merriweather", serif !important;
+    color: #2f2f2f !important;
+    text-align: start;
+
+}
+
+h3 {
+    font-size: 32px;
+    font-weight: 500;
+    color: #2f2f2f !important;
+    text-align: center;
+}
+
+
+h6 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #2f2f2f !important;
+}
+
+p {
+    color: #2f2f2f !important;
+    font-family: "Merriweather", serif !important;
+    font-size: 18px;
+}
+
+.card-text {
+    color: #2f2f2f;
+}
+
+.btn-warning {
+    color: #2f2f2f !important;
+}
+
+
+.no-border {
+    border: 0px !important;
+}
+
+#formulario-contacto {
+    padding-top: 80px;
+}
